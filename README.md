@@ -1,3 +1,5 @@
+**Project was a coding problem from a Data Structures and Algorithms in Java course taken at Columbia University**
+
 Implements a stack in a class called MyStack. Implements and defines a class called *SymbolBalance* in the empty SymbolBalance.java file.
 
 The `SymbolBalance` class will read through a Java file and check for simple syntatical errors. There are two methods.
